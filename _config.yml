@@ -1,17 +1,17 @@
 #page title
-page_title                                : Официальные ПДД 2020 # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Билеты ПДД 2020 AB # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1487298196 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 1382112177 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
-appstore_link                             : https://apps.apple.com/ru/app/id1487298196 # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+appstore_link                             : https://apps.apple.com/ru/app/id1382112177 # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :
 presskit_download_link                    :
 
 app_icon                                  : assets/AppIcon.png # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Официальные ПДД 2020 # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Билеты ПДД 2020 AB # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Бесплатно и без рекламы # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Держи всегда под рукой!
+app_description                           : Получить права проще, чем кажется!
 
 enable_smart_app_banner                   : true # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -33,7 +33,7 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Всегда самая свежая<br>редакция ПДД
+  - title                                 : Всегда самые свежие<br>билеты ПДД
     description                           : 
     fontawesome_icon_name                 : exclamation
 
@@ -45,7 +45,8 @@ features                                  :
     description                           : 
     fontawesome_icon_name                 : font
 
-  - title                                 : Удобная навигация<br>по пунктам и знакам
+
+  - title                                 : Запись на экзамен<br>со скидкой 30%
     description                           : 
     fontawesome_icon_name                 : link
 
@@ -53,7 +54,7 @@ features                                  :
     description                           : 
     fontawesome_icon_name                 : image
 
-  - title                                 : Поиск по материалам<br>и разделам
+  - title                                 : Статистика обучения<br>по билетам и темам
     description                           : 
     fontawesome_icon_name                 : search
 
